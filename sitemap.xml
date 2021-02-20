@@ -3,79 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://github.com/palaashagrawal/palaashagrawal.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://github.com/palaashagrawal/palaashagrawal.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/chapter-1/</loc>
+    <loc>https://github.com/palaashagrawal/palaashagrawal.github.io/post/chapter-1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/chapter-2/</loc>
+    <loc>https://github.com/palaashagrawal/palaashagrawal.github.io/post/chapter-2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/chapter-3/</loc>
+    <loc>https://github.com/palaashagrawal/palaashagrawal.github.io/post/chapter-3/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/chapter-4/</loc>
+    <loc>https://github.com/palaashagrawal/palaashagrawal.github.io/post/chapter-4/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/chapter-5/</loc>
+    <loc>https://github.com/palaashagrawal/palaashagrawal.github.io/post/chapter-5/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/chapter-6/</loc>
+    <loc>https://github.com/palaashagrawal/palaashagrawal.github.io/post/chapter-6/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://github.com/palaashagrawal/palaashagrawal.github.io/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://github.com/palaashagrawal/palaashagrawal.github.io/post/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/scene/</loc>
+    <loc>https://github.com/palaashagrawal/palaashagrawal.github.io/tags/scene/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://github.com/palaashagrawal/palaashagrawal.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://github.com/palaashagrawal/palaashagrawal.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
